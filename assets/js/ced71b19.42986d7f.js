@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[9131],{7072:(e,l,t)=>{t.r(l),t.d(l,{default:()=>n});var s=t(7294),a=t(7961);const c="pagetitle_lcGD",n=()=>s.createElement(a.Z,null,s.createElement("h1",{className:c},"Hello World!"))}}]);

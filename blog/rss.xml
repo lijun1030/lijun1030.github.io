@@ -4,10 +4,20 @@
         <title>博客小站 Blog</title>
         <link>https://lijun1030.github.io/blog</link>
         <description>博客小站 Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jul 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
+        <item>
+            <title><![CDATA[我的博客]]></title>
+            <link>https://lijun1030.github.io/blog/happy</link>
+            <guid>https://lijun1030.github.io/blog/happy</guid>
+            <pubDate>Sat, 15 Jul 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[今天好开心，编写了第一章博客！]]></description>
+            <content:encoded><![CDATA[<p>今天好开心，编写了第一章博客！</p>]]></content:encoded>
+            <category>博客</category>
+            <category>分享</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://lijun1030.github.io/blog/welcome</link>

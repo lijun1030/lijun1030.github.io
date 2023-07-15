@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lijun1030.github.io/blog</id>
     <title>博客小站 Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2023-07-15T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lijun1030.github.io/blog"/>
     <subtitle>博客小站 Blog</subtitle>
     <icon>https://lijun1030.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[我的博客]]></title>
+        <id>https://lijun1030.github.io/blog/happy</id>
+        <link href="https://lijun1030.github.io/blog/happy"/>
+        <updated>2023-07-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今天好开心，编写了第一章博客！]]></summary>
+        <content type="html"><![CDATA[<p>今天好开心，编写了第一章博客！</p>]]></content>
+        <author>
+            <name>li jun</name>
+            <uri>https://lijunbk.cn</uri>
+        </author>
+        <category label="博客" term="博客"/>
+        <category label="分享" term="分享"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://lijun1030.github.io/blog/welcome</id>
